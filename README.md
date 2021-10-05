@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arunnithyanand
-- 👀 I’m interested in ...python
+- 👀 I’m interested in ...python django,flask,html,css,bootstrap
 - 🌱 I’m currently learning ...python full stack development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
